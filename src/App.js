@@ -5,7 +5,7 @@ import Register from "./components/Register";
 function App() {
   return (
     <div >
-<Register/>
+       <Register/>
     </div>
   );
 }
