@@ -9,7 +9,11 @@ const  Register =() => {
         <h2 className="text-primary bg-success"> Welcome java</h2>
             <i className="fas fa-heart"></i>
             <i className="fa fa-solid"></i>
-            {/*<FontAwesomeIcon icon={fa-solid} />*/}
+            {/*<FontAwesomeIcon icon={fa-solid} />
+            
+               change-1
+            
+            */}
             </>
 );
 
