@@ -12,7 +12,7 @@ const  Register =() => {
             {/*<FontAwesomeIcon icon={fa-solid} />
             
                change-1
-            
+               change-2
             */}
             </>
 );
